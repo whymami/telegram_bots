@@ -1,0 +1,1 @@
+print("windows/main.py çalıştı.")
